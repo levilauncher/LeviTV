@@ -60,7 +60,7 @@ Tudo em uma interface **preta e branca**, direta e profissional — catálogo, b
 ## Download
 
 > **Beta pública em breve.**  
-> O Levi TV ainda não está disponível para download geral. Acompanhe este repositório e as [Releases](https://levilauncher/LeviTV/releases) para saber quando a beta abrir.
+> O Levi TV ainda não está disponível para download geral. Acompanhe este repositório e as [Releases](https://github.com/levilauncher/LeviTV/releases) para saber quando a beta abrir.
 
 | Plataforma | Status |
 |------------|--------|
