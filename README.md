@@ -60,7 +60,7 @@ Tudo em uma interface **preta e branca**, direta e profissional — catálogo, b
 ## Download
 
 > **Beta pública em breve.**  
-> O Levi TV ainda não está disponível para download geral. Acompanhe este repositório e as [Releases](https://realizarei/LeviTV/releases) para saber quando a beta abrir.
+> O Levi TV ainda não está disponível para download geral. Acompanhe este repositório e as [Releases](https://levilauncher/LeviTV/releases) para saber quando a beta abrir.
 
 | Plataforma | Status |
 |------------|--------|
@@ -121,7 +121,7 @@ Quer ajudar a construir o Levi TV?
 4. Compartilhe o projeto com quem curte filmes e séries  
 
 ```bash
-git clone https://github.com/realizarei/LeviTV.git
+git clone https://github.com/levilauncher/LeviTV.git
 cd levi
 ```
 
